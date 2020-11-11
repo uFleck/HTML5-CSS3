@@ -1,3 +1,3 @@
 # HTML5-CSS3
 
-Anotações e exercícios do curso de HTML5 e CSS3 disponibilizado pelo canal [Curso em Vídeo](https://www.youtube.com/playlist?list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n).
+Notes and exercises of the HTML5 and CSS3 course provided by the [Curso em Vídeo](https://www.youtube.com/channel/UCrWvhVmt0Qac3HgsjQK62FQ) channel.
